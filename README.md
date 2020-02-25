@@ -1,9 +1,10 @@
 # Copy-Move Detection on Digital Image using Python
 
 ### Udpdate
-**Update 18 Oct 2019**: I believe it is time to rewrite and optimize on python 3! Currenlty WIP :)
 
-**Update**: I just released english version for english reader! You can have it via [Release tag](https://github.com/rahmatnazali/image-copy-move-detection/releases/tag/English_Version) or by pulling the newest code.
+**Update 2**: The python 3 version of this code is ready at [here](https://github.com/rahmatnazali/image-copy-move-detection).
+
+**Update 1**: I just released english version for english reader! You can have it via [Release tag](https://github.com/rahmatnazali/image-copy-move-detection/releases/tag/English_Version) or by pulling the newest code.
 
 
 ## Description

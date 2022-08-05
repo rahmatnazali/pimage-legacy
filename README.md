@@ -1,6 +1,6 @@
 # Copy-Move Detection on Digital Image using Python
 
-### Udpdate
+### Update
 
 **Update 2**: The python 3 version of this code is ready at [here](https://github.com/rahmatnazali/image-copy-move-detection).
 

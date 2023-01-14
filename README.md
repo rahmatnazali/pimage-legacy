@@ -2,7 +2,7 @@
 
 ### Update
 
-**Update 2**: The python 3 version of this code is ready at [here](https://github.com/rahmatnazali/image-copy-move-detection).
+**Update 2**: The python 3 version of this code is ready at [this repository](https://github.com/rahmatnazali/image-copy-move-detection).
 
 **Update 1**: I just released english version for english reader! You can have it via [Release tag](https://github.com/rahmatnazali/image-copy-move-detection/releases/tag/English_Version) or by pulling the newest code.
 
